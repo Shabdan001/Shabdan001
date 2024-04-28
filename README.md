@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shabdan001
+- 👋 Hi, I’m @Shabdan
 - 👀 I’m passionate about machine learning, data science, and deep learning.
 - Here you'll find information about my projects, interests, and skills
 - 🌱 I’m constantly learning and improving my skills in machine learning, data science, and deep learning
