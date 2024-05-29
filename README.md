@@ -3,5 +3,5 @@
 - Here you'll find information about my projects, interests, and skills
 - 🌱 I’m constantly learning and improving my skills in machine learning, data science, and deep learning
 - 💞️ I’m looking to collaborate on AI projects in predictive modeling and computer vision
-- 📫 How to reach me staalaibekov343@gmail.com
+- 📫 How to reach me https://t.me/SHABDAN001
 - 😄 Pronouns: he
